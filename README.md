@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/z2dev/z2dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
