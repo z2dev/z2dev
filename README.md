@@ -1,11 +1,11 @@
 
 ###
 
-<h1 align="center">Hi, I'm Zahra! 👋</h1>
+<h1 align="center">Hi, I'm Zahra! 👋👩🏻‍💻</h1>
 
 ###
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">💫About Me:</h2>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🛠️Skills</h2>
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">📌Programming Languages</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">Tools & Platforms</h3>
+<h3 align="left">📌Tools & Platforms</h3>
 
 ###
 
